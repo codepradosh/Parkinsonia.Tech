@@ -1,0 +1,5 @@
+.idea/*
+/backend/venv
+.DS_Store
+/record-mic
+/IyadBackend
